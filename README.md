@@ -7,5 +7,4 @@ The main page
 
 
 
-All books 
-<img width="936" alt="next_page" src="https://user-images.githubusercontent.com/69731091/144062144-89997f37-7172-4eb9-896c-d0c9e3bae9b2.png">
+All books <img width="936" alt="next_page" src="https://user-images.githubusercontent.com/69731091/144062144-89997f37-7172-4eb9-896c-d0c9e3bae9b2.png">
